@@ -1,0 +1,19 @@
+{
+  "name": "trello-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.3.0",
+    "oauth": "^0.10.0",
+    "url": "^0.11.0"
+  }
+}
